@@ -18,3 +18,5 @@ assets
 package-lock.json
 webpack-stats.json
 
+
+amplify/
